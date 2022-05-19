@@ -1,6 +1,0 @@
-customhost = "employee.cqi5aydncbjl.us-east-1.rds.amazonaws"
-customuser = "admin"
-custompass = "yahoo1234"
-customdb = "employee"
-custombucket = "addemployee"
-customregion = "us-east-1"
